@@ -7,5 +7,6 @@ spring:
         git:
           default-label: main
           uri: https://github.com/ianRickmers/microservices-data-project
+          search-paths: config-data
   application:
     name: config-service
